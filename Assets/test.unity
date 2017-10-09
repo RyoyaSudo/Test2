@@ -40,6 +40,7 @@ RenderSettings:
   m_Sun: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_IndirectSpecularColor: {r: 0.4465785, g: 0.49641252, b: 0.574817, a: 1}
 =======
   m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
@@ -47,6 +48,9 @@ RenderSettings:
 =======
   m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
 >>>>>>> parent of 8afb67c... test
+=======
+  m_IndirectSpecularColor: {r: 0.4465785, g: 0.49641252, b: 0.574817, a: 1}
+>>>>>>> parent of 90ec4b4... Revert "yuuki"
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -380,7 +384,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 10}
-<<<<<<< HEAD
 --- !u!1001 &338687515
 Prefab:
   m_ObjectHideFlags: 0
@@ -531,8 +534,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
->>>>>>> parent of 7d308ca... yuuki
 --- !u!1 &1141432253
 GameObject:
   m_ObjectHideFlags: 0
@@ -631,7 +632,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!1 &1264566311
 GameObject:
   m_ObjectHideFlags: 0
@@ -715,8 +715,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
->>>>>>> parent of 7d308ca... yuuki
 --- !u!1 &1648953870
 GameObject:
   m_ObjectHideFlags: 0
